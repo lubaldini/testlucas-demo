@@ -2,3 +2,5 @@ Test git demo
 A Change
 
 more changes
+
+Changes for Rebase example
