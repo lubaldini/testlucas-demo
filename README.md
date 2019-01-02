@@ -4,7 +4,7 @@ Repository to test the git hub course
 
 ## Introduction
 
-This is example is to show different parts of the Git repository and a lot of commands. Adding a line for rebasing example.
+This is example is to show different parts of the Git repository and a lot of commands. Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Purpose
 
